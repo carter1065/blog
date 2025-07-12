@@ -2,12 +2,118 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Home</title>
+    <title>Carter's Blog</title>
 </head>
 <body>
-    <h1>Home</h1>
-    # Welcome to My Blog
+    <h1>Carter's Blog</h1>
+    
 
-Once I'm not busy, you better prepare yourself for my posts...
+
+
+<div id="main" role="main">
+  
+
+
+  <div class="archive">
+    
+      <h1 id="page-title" class="page__title">Carter's Blog</h1>
+    
+    Once I'm not busy, you better prepare yourself for my posts...
+
+<h3 class="archive__subtitle">Recent Posts</h3>
+
+
+
+
+<div class="entries-list">
+  
+
+
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/2025/07/12/post.md.bak" rel="permalink">My First Blog Post
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          less than 1 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">I’m going to start writing here when my beautiful son Lucas is born.
+</p>
+  </article>
+</div>
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/2025/07/12/post.html" rel="permalink">My First Blog Post
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          less than 1 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">I’m going to start writing here when my beautiful son Lucas is born.
+</p>
+  </article>
+</div>
+
+</div>
+
+
+
+
+  </div>
+</div>
+
 </body>
 </html>
