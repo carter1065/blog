@@ -5,3 +5,18 @@ minimal_mistakes_skin: "air"
 
 plugins:
   - jekyll-include-cache
+  
+  author:
+  name: Carter Parker
+  avatar: "me.png"
+  bio: "Writing about autism, fitness, politics, whatever else"
+  location: "Long Island"
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true

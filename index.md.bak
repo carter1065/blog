@@ -1,8 +1,7 @@
 ---
-layout: default
-title: Home
+layout: home
+title: Carter's Blog
+author_profile: false
 ---
-
-# Welcome to My Blog
 
 Once I'm not busy, you better prepare yourself for my posts...
