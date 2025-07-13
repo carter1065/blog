@@ -8,7 +8,7 @@ plugins:
   
 author:
   name: Carter Parker
-  avatar: "me.png"
+  avatar: "/assets/images/me.jpg"
   bio: "Writing about autism, fitness, politics, whatever else"
   location: "Long Island"
 
@@ -20,3 +20,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+
+sass:
+  sass_dir: assets/css
