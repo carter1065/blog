@@ -20,3 +20,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+
+sass:
+  sass_dir: assets/css
