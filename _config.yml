@@ -10,7 +10,14 @@ author:
   name: Carter Parker
   avatar: "/assets/images/me.jpg"
   bio: "Writing about autism, fitness, politics, whatever else"
-  location: "https://x.com/cartermparker"
+  location: "Long Island"
+  links:
+    - label: "X"
+      icon: "fa-brands fa-x-twitter"
+      url: https://x.com/cartermparker
+    - label: "Insta"
+      icon: "fa-brands fa-instagram"
+      url: https://instagram.com/C4rt3r824
 
 defaults:
   - scope:

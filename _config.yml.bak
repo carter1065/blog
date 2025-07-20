@@ -11,6 +11,10 @@ author:
   avatar: "/assets/images/me.jpg"
   bio: "Writing about autism, fitness, politics, whatever else"
   location: "Long Island"
+  links:
+    - label: "X"
+      icon: "fa-brands fa-x-twitter"
+      url: https://x.com/cartermparker
 
 defaults:
   - scope:
