@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Stop killing us (re: Charlie Kirk)"
+title: "Stop killing us (re Charlie Kirk)"
 date: 2025-09-15
 ---
 
