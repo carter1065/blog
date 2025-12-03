@@ -34,4 +34,10 @@ var store = [{
         "tags": [],
         "url": "/2025/09/15/Stop-killing-us.html",
         "teaser": null
+      },{
+        "title": "Month one of fatherhood",
+        "excerpt":"I became a dad on October 25th, 2025. That was a month ago, I’m told. I don’t know. I was a few weeks into training for my final tournament. The semester was halfway done. My son wasn’t due until January. Everything I did to prepare for January, I’ve still been...","categories": [],
+        "tags": [],
+        "url": "/2025/12/03/Month-one-of-fatherhood.html",
+        "teaser": null
       }]
