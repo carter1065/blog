@@ -1,0 +1,4 @@
+{% assign sorted = paginator.posts | sort: "stickiness" %}
+{% for post in sorted %}
+...etc...
+{% endfor %}

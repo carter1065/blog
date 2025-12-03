@@ -1,0 +1,8 @@
+{% assign sorted = paginator.posts | sort: "stickiness" %}
+{% for post in sorted %}
+...etc...
+{% endfor %}
+
+{% if post.sticky %}
+  <span class="sticky"><i class="fa fa-thumb-tack" aria-hidden="true"></i></span>
+{% endif %}
