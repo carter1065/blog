@@ -5,6 +5,7 @@ minimal_mistakes_skin: "air"
 
 plugins:
   - jekyll-include-cache
+  - jekyll-stickyposts
   
 author:
   name: Carter Parker
@@ -15,6 +16,9 @@ author:
     - label: "X"
       icon: "fa-brands fa-x-twitter"
       url: https://x.com/cartermparker
+    - label: "Insta"
+      icon: "fa-brands fa-instagram"
+      url: https://instagram.com/C4rt3r824
 
 defaults:
   - scope:

@@ -1,4 +1,8 @@
 ---
+layout: single
+title: "Autism isn't real"
+date: 2025-07-19
+published: true
 sticky: true
 ---
 
