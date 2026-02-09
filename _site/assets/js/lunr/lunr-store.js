@@ -30,7 +30,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Stop killing us (re: Charlie Kirk)",
-        "excerpt":"Charlie Kirk was killed five days ago. This assassination has caused an irreversible shift in my worldview and I am still close to the angriest that I have ever been in my life. Charlie was the absolute worst person this could’ve happened to. He was a harmless moderate who I...","categories": [],
+        "excerpt":"Update 2/9/26: The initial atheist reaction to Charlie Kirk’s death was absolutely disgusting and indefensible. This post was my raw and unfiltered response to that, as a right-wing zoomer with all the same beliefs that marked him for death. However, the memes made about it in the following months (i.e...","categories": [],
         "tags": [],
         "url": "/2025/09/15/Stop-killing-us.html",
         "teaser": null
@@ -39,5 +39,17 @@ var store = [{
         "excerpt":"I became a dad on October 25th, 2025. That was a month ago, I’m told. I don’t know. I was a few weeks into training for my final tournament. The semester was halfway done. My son wasn’t due until January. Everything I did to prepare for January, I’ve still been...","categories": [],
         "tags": [],
         "url": "/2025/12/03/Month-one-of-fatherhood.html",
+        "teaser": null
+      },{
+        "title": "Eat burp change",
+        "excerpt":"Today marks two weeks of my newborn son living in my house. I was once fascinated by the thought of his unlimited potential. Now it’s a little scary, because it’s finally dawned on me that I have no fucking clue who this guy is. I know less about him than...","categories": [],
+        "tags": [],
+        "url": "/2026/01/17/Eat-burp-change.html",
+        "teaser": null
+      },{
+        "title": "A eulogy for football",
+        "excerpt":"Rest in peace, football. I want to be clear with this eulogy: football fucking sucks. It always sucked, but now it’s dead. Hence the eulogy. Football, the game, is a timeless physical activity, and it will always have its place in high schools and family reunions. Televised football, “the game,”...","categories": [],
+        "tags": [],
+        "url": "/2026/02/09/A-eulogy-for-football.html",
         "teaser": null
       }]

@@ -2,8 +2,11 @@
 layout: single
 title: "Stop killing us (re: Charlie Kirk)"
 date: 2025-09-15
+last_modified_at: 2026-02-09
 published: true
 ---
+
+Update 2/9/26: The initial atheist reaction to Charlie Kirk's death was absolutely disgusting and indefensible. This post was my raw and unfiltered response to that, as a right-wing zoomer with all the same beliefs that marked him for death. However, the memes made about it in the following months (i.e Kirkinator-era) were more lighthearted, less spiteful, and a lot funnier. Charlie Kirk has now become a unifying figure between all races and political tribes. Therefore, you can disregard everything I wrote here. I'm not angry anymore. I have no enemies.
 
 Charlie Kirk was killed five days ago. This assassination has caused an irreversible shift in my worldview and I am still close to the angriest that I have ever been in my life. Charlie was the absolute worst person this could’ve happened to. He was a harmless moderate who I mainly remember from seven-year-old memes. He advocated for basic Christian values. He aimed to be one of the least divisive people on the right, and was by far the most tolerant and respectful out of all of our brethren. Our enemies can’t even find an example of him ever losing his cool or saying something unduly offensive; they are blatantly making shit up. Our enemies call for the extinction of our religion, the grooming of our children, and they openly hate most of us for being White. All three of those are mainstream beliefs; the AVERAGE democrat believes that a child being transgender is more appropriate than their teacher praying in front of them, and they believe that saying “it’s ok to be white” is worse than burning down a city. When faced with people who believe these heinous things ON AVERAGE, Charlie did absolutely nothing except debate their ideas and help create political strategies to reduce their power. For that, they murdered him. He would have been completely justified in lashing out at these people and advocating for their total removal from society. But he didn’t do that. He just wanted them to change their minds. They killed him anyway and now they’re lying that he DID do that, as if it would’ve made him the bad guy.
 
