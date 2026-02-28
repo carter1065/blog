@@ -3,7 +3,7 @@ layout: single
 title: "Stop killing us (re: Charlie Kirk)"
 date: 2025-09-15
 last_modified_at: 2026-02-09
-published: true
+published: false
 ---
 
 Update 2/9/26: The initial atheist reaction to Charlie Kirk's death was absolutely disgusting and indefensible. This post was my raw and unfiltered response to that, as a right-wing zoomer with all the same beliefs that marked him for death. However, the memes made about it in the following months (i.e Kirkinator-era) were more lighthearted, less spiteful, and a lot funnier. Charlie Kirk has now become a unifying figure between all races and political tribes. Therefore, you can disregard everything I wrote here. I'm not angry anymore. I have no enemies.
